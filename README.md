@@ -1,11 +1,11 @@
 ![.NET Core](https://github.com/rahulsahay19/eCommerce-App/workflows/.NET%20Core/badge.svg?branch=master)
 
-# Ecommerce App using ASP.NET Core and Angular
+# Ecommerce App using ASP.NET Core and Angular 15
 
 
 Hi Friends,
 
-During this lock-down period; I spent some time writing one full stack project using ASP.NET Core and Angular 9 with other best practices as explained below. I hope you like it.
+This project is to provide upgraded version from https://github.com/rahulsahay19/eCommerce-App to this with Angular 15.
 Demo Link:- https://sports-center.azurewebsites.net/
 Git Link:- https://github.com/rahulsahay19/eCommerce-App
 
