@@ -8,7 +8,7 @@ Dear all,
 This project is to provide upgraded version from https://github.com/rahulsahay19/eCommerce-App to this with Angular 15.
 Demo Link:- https://sports-center.azurewebsites.net/
 Git Link:- [https://github.com/youngnacs/Public-AngularCoreCommerce].
-(This project will be used to connect to nopCommerce .Net API for the backend business logics as a further working task.)
+(This project will be used to connect to nopCommerce .Net API for the backend business logics as a private working task.)
 
 ## Introduction from the original contributor ----
 In this section, you will learn how to build full fledged Ecommerce app using asp.net core and angular 9. Below are the key takeaways from this project. Anyone who wants to learn and write professional enterpise projects can refer this project. This project not only illustrates how to implement all layers to the point rather it adheres to best practices as followed by industry.
