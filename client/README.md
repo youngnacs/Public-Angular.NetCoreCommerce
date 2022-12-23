@@ -1,16 +1,14 @@
-![.NET Core](https://github.com/rahulsahay19/eCommerce-App/workflows/.NET%20Core/badge.svg?branch=master)
-
 # Ecommerce App using ASP.NET Core and Angular
 
 
 Hi Friends,
 
-During this lock-down period; I spent some time writing one full stack project using ASP.NET Core and Angular 9 with other best practices as explained below. I hope you like it.
+During this lock-down period; I spent some time writing one full stack project using ASP.NET Core and Angular 15 with other best practices as explained below. I hope you like it.
 Demo Link:- https://sports-center.azurewebsites.net/
 Git Link:- https://github.com/rahulsahay19/eCommerce-App
 
 ## Introduction
-In this section, you will learn how to build full fledged Ecommerce app using asp.net core and angular 9. Below are the key takeaways from this project. Anyone who wants to learn and write professional enterpise projects can refer this project. This project not only illustrates how to implement all layers to the point rather it adheres to best practices as followed by industry.
+In this section, you will learn how to build full fledged Ecommerce app using asp.net core and angular 15. Below are the key takeaways from this project. Anyone who wants to learn and write professional enterpise projects can refer this project. This project not only illustrates how to implement all layers to the point rather it adheres to best practices as followed by industry.
  
 Here, you will learn variety of technologies like
 
@@ -113,7 +111,7 @@ This project is built using asp.net core 3.1. you can cd into API directory and 
 
 ## Client Side Technologies
 
-- Angular 9
+- Angular 15
 - Bootstrap 4
 - ngx-bootstrap
 - Font Awesome
@@ -169,3 +167,6 @@ Demo Link:- https://sports-center.azurewebsites.net/
 
 ![12th](https://user-images.githubusercontent.com/3886381/80680067-bbb69f00-8adb-11ea-90c3-8682349cac0e.png)
 
+
+# Credits:
+Influenced by Neil Cummings
